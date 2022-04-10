@@ -91,6 +91,8 @@ body{
 	text-decoration: none;
 	border-bottom:2px solid transparent;
 	transition: 0.5s;
+	font-family: 'Lobster', cursive;
+	margin-left: 255px;
 
 }
 .author:hover{
